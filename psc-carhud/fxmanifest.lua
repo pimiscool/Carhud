@@ -14,6 +14,6 @@ files {
    'ui/app.js'
 }
 
-description 'sb-hud developed by me'
+description 'psc-carhud developed by Pim#7754'
 
-author 'ssergioblanco#6487'
+author 'Pim#7754'
