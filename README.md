@@ -1,5 +1,7 @@
 # Carhud
  This is my own carhud of five m
+ 
+ Join the Discord! Discord https://discord.gg/KjHXgQvXfR   
 
 ## installation guide  
 
