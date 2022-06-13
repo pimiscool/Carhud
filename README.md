@@ -14,7 +14,7 @@
  
  ## Dependency
 
- Download this file otherwise the fuel will not work
+ Download this file otherwise the fuel will not work       
  https://github.com/InZidiuZ/LegacyFuel
  
  Credits for LegacyFuel: InZidiuZ
