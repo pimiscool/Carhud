@@ -3,7 +3,7 @@
  Join the Discord! Discord https://discord.gg/KjHXgQvXfR   
 
 ## installation guide
-
+  
  | Step 1 | Download the .zip       
  | Step 2 | Add the psc-carhud to your rescource folder                 
  | Step 3 | Add 'start psc-carhud' to your server.cfg             
